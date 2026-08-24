@@ -1,0 +1,8 @@
+[      68ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: '*'. @ :0
+[     735ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://excalidraw.com/:0
+[  286843ms] [ERROR] TypeError: window.showSaveFilePicker is not a function
+    at Object.I9e [as default] (https://excalidraw.com/assets/index-CmqSbLij.js:151:332341)
+    at y9e (https://excalidraw.com/assets/index-CmqSbLij.js:151:329566) @ https://excalidraw.com/assets/index-CmqSbLij.js:66
+[  357190ms] [ERROR] TypeError: window.showSaveFilePicker is not a function
+    at Object.I9e [as default] (https://excalidraw.com/assets/index-CmqSbLij.js:151:332341)
+    at y9e (https://excalidraw.com/assets/index-CmqSbLij.js:151:329566) @ https://excalidraw.com/assets/index-CmqSbLij.js:66

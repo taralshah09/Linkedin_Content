@@ -1,0 +1,14 @@
+[      83ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: '*'. @ :0
+[    1278ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://excalidraw.com/:0
+[  964640ms] [WARNING] AbortError: Failed to execute 'showOpenFilePicker' on 'Window': Intercepted by Page.setInterceptFileChooserDialog().
+    at Object.v9e [as default] (https://excalidraw.com/assets/index-CmqSbLij.js:151:329896)
+    at U9e (https://excalidraw.com/assets/index-CmqSbLij.js:151:329305)
+    at async eC (https://excalidraw.com/assets/index-CmqSbLij.js:151:334934)
+    at async D9e (https://excalidraw.com/assets/index-CmqSbLij.js:151:335887)
+    at async Object.perform (https://excalidraw.com/assets/index-CmqSbLij.js:157:4981) @ https://excalidraw.com/assets/index-CmqSbLij.js:66
+[  981936ms] [WARNING] AbortError: Failed to execute 'showOpenFilePicker' on 'Window': Intercepted by Page.setInterceptFileChooserDialog().
+    at Object.v9e [as default] (https://excalidraw.com/assets/index-CmqSbLij.js:151:329896)
+    at U9e (https://excalidraw.com/assets/index-CmqSbLij.js:151:329305)
+    at async eC (https://excalidraw.com/assets/index-CmqSbLij.js:151:334934)
+    at async D9e (https://excalidraw.com/assets/index-CmqSbLij.js:151:335887)
+    at async Object.perform (https://excalidraw.com/assets/index-CmqSbLij.js:157:4981) @ https://excalidraw.com/assets/index-CmqSbLij.js:66
